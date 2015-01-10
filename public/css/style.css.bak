@@ -1,0 +1,25 @@
+.button{
+	padding:6px 12px;
+	font-size:14px;
+	font-weight:normal;
+	text-align:center;
+	border:1px solid transparent;
+	border-radius:4px;
+	color:#fff;
+	background-color:gray;
+	border-color:gray;
+}
+.login{
+	width: 270px; margin: 150px auto 0 auto;
+	border:1px solid gray;
+	padding:2em;
+	border-radius:4px;
+}
+.s{
+	text-decoration:none;
+}
+.input{
+	margin-bottom:6px;
+	border-radius:4px;
+	padding:4px;
+}
